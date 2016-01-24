@@ -1,0 +1,28 @@
+name: CJ
+favicon: null
+layout_spectrum: 0.5179908804129809
+typography_spectrum: 0.3103807477746159
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.700423018541187
+  lightness: 0.6590171444695443
+  saturation: 0.3186524051707238
+  rhythmicContrast: 0.8622712132055312
+purpose: []
