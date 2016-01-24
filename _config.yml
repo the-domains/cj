@@ -2,6 +2,7 @@ name: CJ
 favicon: null
 layout_spectrum: 0.50624
 typography_spectrum: 0.23203
+title: 'Cool website, bro'
 cta:
   domain: null
   bucket: null
