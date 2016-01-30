@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'just testing a random link '
-datePublished: '2016-01-30T20:16:04.667Z'
+datePublished: '2016-01-30T20:16:04.674Z'
 dateModified: '2016-01-30T20:16:01.260Z'
 title: Detroit Exercise
 author: []
