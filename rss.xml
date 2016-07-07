@@ -4,7 +4,7 @@
         <description><![CDATA[Cool website, bro]]></description>
         <link>https://thegrid.ai/cj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 17:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 17:16:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[If I write sci-fi, might as well use sci-fi]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/cj/4e7e6bd5-8ba0-4a55-8117-d22811dd2af0/index.html</link>
             <guid isPermaLink="false">4e7e6bd5-8ba0-4a55-8117-d22811dd2af0</guid>
             <pubDate>Tue, 23 Feb 2016 02:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#2]]></title>
-            <description><![CDATA[<article><h1>#2</h1><p>testing once more</p></article>]]></description>
-            <link>https://thegrid.ai/cj/2/index.html</link>
-            <guid isPermaLink="false">61e222f7-78e9-4d43-9508-5528a78ba0be</guid>
-            <pubDate>Sun, 24 Jan 2016 04:27:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
